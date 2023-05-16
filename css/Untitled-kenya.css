@@ -1,0 +1,52 @@
+@charset "utf-8";
+/* CSS Document */
+.all{width: 1900px;height: 1900px;
+background-color: rgba(21,16,36,1.00);position:cover;
+}
+.head{width: 100%;height: 100px;
+background: rgba(24,26,27,1.00);
+}
+.second{width: 270px;height: 100px;
+	position: absolute; 
+}
+.font{width: 500px;height: 100px; 
+position: absolute; left: 270px; color: #FCFBFB;
+}
+.third{width: 500px;height: 100px;position: absolute; left: 600px;}
+.fon{color: #FCF9F9;
+position: absolute;left: 200px;
+}
+.hr{position: absolute;top:275px; left: 200px;}
+.hr1{position: absolute;top: 357px;left: 200px;}
+.menu{width: 1485px; height: 70px; 
+position: absolute; top: 290px;
+left: 200px; float: left;}
+.box1{width:220px;height: 70px; position: absolute;left: 40px;}
+.box2{width:220px;height: 70px; position: absolute;left: 340px;}
+.box3{width:220px;height: 70px; position: absolute;left: 630px;}
+.box4{width:220px;height: 70px; position: absolute;left: 900px;}
+.box5{width:220px;height: 70px; position: absolute;left: 1240px;}
+.picture{width:1510px; height:1485px; position:absolute; left:190px;
+top: 400px; float: left;
+}
+.a1{width: 1360px; height: 420px; position: absolute;left: 75px; top: 75px;}
+.a2{width: 453px; height: 840px; position: absolute;left: 75px;bottom: 75px;}
+.a3{width: 860px; height: 840px; position: absolute;right: 75px;bottom: 75px;}
+.a4{width: 400px; height: 300px; position: absolute;top: 570px;}
+.a5{width: 400px; height: 500px; position: absolute;left: 540px;top: 490px;}
+.a6{width: 400px; height: 300px; position: absolute;left: 1100px;top: 580px;}
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
